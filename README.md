@@ -20,10 +20,10 @@ Very important to follow step 7 as it can cause errors if not accepted.
 
 <img width="1178" alt="Steps 4-6" src="https://github.com/user-attachments/assets/b3bb3f94-4409-402b-af27-ac1737c72878" />
 <img width="1040" alt="Steps 7-8" src="https://github.com/user-attachments/assets/f11e48b4-fa9e-461c-828c-4accfe738215" />
-<img width="960" alt="Step 9" src="https://github.com/user-attachments/assets/1cb5f114-422a-445d-aea6-9de4e508e346" />
 
 Step 10: create a new name for your virtual network (any). Once created on step 13, review and create and wait for validation to be passed.
 
+<img width="960" alt="Step 9" src="https://github.com/user-attachments/assets/1cb5f114-422a-445d-aea6-9de4e508e346" />
 <img width="1412" alt="Steps 10 -13" src="https://github.com/user-attachments/assets/c0ca7822-2067-45c4-9dcf-242b2ab54658" />
 
 If done correctly step 14 will be a green check mark and you create the virtual machine.
